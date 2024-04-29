@@ -1,6 +1,6 @@
 # Learning Python + Maya 
 
-1. 
+1.  <u>Prop-Rigging Tool<u>
     from maya import cmds   <br>
     from maya import cmds as mc  // can give name to cmds library like mc over here <br>
 
@@ -16,3 +16,4 @@
         return var                          <br>
     -> Docstrings <br>
     -> cmds.move() <be>
+    -> pprint <br>
