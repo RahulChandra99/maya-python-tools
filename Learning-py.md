@@ -10,3 +10,9 @@
     -> cmds.circle(name=ctrl_name, radius = 2, normal =[0,1,0]) <br>
     -> altt + mouse to move in editor   <br>
     -> [] means list    <br>
+    -> functtions ::::  <br>
+    def test_method(n1,n2):                 <br>
+        var = 'Hello {} {}'.format(n1,n2)   <br>
+        return var                          <br>
+    -> Docstrings <br>
+    -> cmds.move() <be>
